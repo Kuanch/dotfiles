@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "includePath": [
+                "/usr/local/include/opencv4",
+                "${workspaceFolder}/**",
+                "/home/sixigma/workplace/tensorflow/**",
+                "/home/sixigma/workplace/tensorflow/bazel-genfiles/**",
+                "/home/sixigma/.local/lib/python3.6/site-packages/tensorflow/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
