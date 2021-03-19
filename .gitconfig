@@ -1,0 +1,5 @@
+[user]
+	email = Sixigma6@gmail.com
+	name = sixigma
+[alias]
+	tree = log --graph --decorate --pretty=oneline --abbrev-commit
